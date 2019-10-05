@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GitIgnore" injector-id="java">
+      <display-name>PrintStream (java.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("print").withParameters("java.lang.String").definedInClass("java.io.PrintStream"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintStream"))]]></place>
+    </injection>
+  </component>
+</application>
