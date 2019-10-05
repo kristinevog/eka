@@ -3,6 +3,7 @@
     <library name="src">
       <CLASSES>
         <root url="file://$USER_HOME$/Documents/Programmaturas_izstrades_tehnoloģijas/MajasDarbi/Intervals/bin" />
+        <root url="file://$USER_HOME$/Documents/Programmaturas_izstrades_tehnoloģijas/MajasDarbi/Intervals/src" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
